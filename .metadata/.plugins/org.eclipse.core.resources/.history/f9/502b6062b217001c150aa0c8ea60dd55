@@ -1,0 +1,10 @@
+package resources;
+
+import com.aventstack.extentreports.reporter.ExtentSparkReporter;
+
+public class ExtentReporterNG {
+	
+	String path = System.getProperty("user.dir") + "\\reports\\index.html";
+
+	ExtentSparkReporter spark = new ExtentSparkReporter();
+}

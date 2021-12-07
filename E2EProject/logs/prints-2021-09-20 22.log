@@ -1,0 +1,47 @@
+18:19:33.406 [TestNG-tests-2] INFO  academy.HomePageTest - driver is initialized
+18:19:40.690 [TestNG-tests-1] INFO  academy.ValidateTittleTest - base url is reached
+18:19:40.862 [TestNG-tests-2] INFO  academy.HomePageTest - base url is reached
+18:19:43.631 [TestNG-tests-4] INFO  academy.ValidateNavigationBarTest - base url is reached
+18:19:51.551 [TestNG-tests-4] INFO  academy.ValidateNavigationBarTest - navigation bar is displayed
+18:19:54.498 [TestNG-tests-2] INFO  academy.HomePageTest - lucky22@gmail.comisRestricted user
+18:19:58.014 [TestNG-tests-2] INFO  academy.HomePageTest - driver is initialized
+18:20:01.311 [TestNG-tests-2] INFO  academy.HomePageTest - base url is reached
+18:20:10.666 [TestNG-tests-2] INFO  academy.HomePageTest - kusum23@gmail.comisNon-Rsetricted user
+18:20:42.498 [TestNG-tests-4] INFO  academy.ValidateNavigationBarTest - driver is initialized
+18:20:42.518 [TestNG-tests-1] INFO  academy.ValidateTittleTest - driver is initialized
+18:20:42.537 [TestNG-tests-2] INFO  academy.HomePageTest - driver is initialized
+18:20:51.112 [TestNG-tests-4] INFO  academy.ValidateNavigationBarTest - base url is reached
+18:20:51.382 [TestNG-tests-2] INFO  academy.HomePageTest - base url is reached
+18:20:51.465 [TestNG-tests-1] INFO  academy.ValidateTittleTest - base url is reached
+18:21:14.999 [TestNG-tests-2] INFO  academy.HomePageTest - driver is initialized
+18:21:18.853 [TestNG-tests-2] INFO  academy.HomePageTest - base url is reached
+18:21:31.724 [TestNG-tests-2] INFO  academy.HomePageTest - kusum23@gmail.comisNon-Rsetricted user
+18:28:50.542 [TestNG-tests-1] INFO  academy.ValidateTittleTest - driver is initialized
+18:28:50.985 [TestNG-tests-4] INFO  academy.ValidateNavigationBarTest - driver is initialized
+18:28:50.987 [TestNG-tests-2] INFO  academy.HomePageTest - driver is initialized
+18:28:55.547 [TestNG-tests-2] INFO  academy.HomePageTest - base url is reached
+18:29:00.384 [TestNG-tests-4] INFO  academy.ValidateNavigationBarTest - base url is reached
+18:29:00.734 [TestNG-tests-1] INFO  academy.ValidateTittleTest - base url is reached
+23:40:02.137 [TestNG-tests-2] INFO  academy.HomePageTest - driver is initialized
+23:40:02.577 [TestNG-tests-4] INFO  academy.ValidateNavigationBarTest - driver is initialized
+23:40:02.683 [TestNG-tests-1] INFO  academy.ValidateTittleTest - driver is initialized
+23:40:18.592 [TestNG-tests-4] INFO  academy.ValidateNavigationBarTest - base url is reached
+23:40:18.758 [TestNG-tests-2] INFO  academy.HomePageTest - base url is reached
+23:40:19.546 [TestNG-tests-1] INFO  academy.ValidateTittleTest - base url is reached
+23:40:31.961 [TestNG-tests-4] INFO  academy.ValidateNavigationBarTest - navigation bar is displayed
+23:40:40.012 [TestNG-tests-2] INFO  academy.HomePageTest - lucky22@gmail.comisRestricted user
+23:40:52.396 [TestNG-tests-2] INFO  academy.HomePageTest - driver is initialized
+23:40:58.943 [TestNG-tests-2] INFO  academy.HomePageTest - base url is reached
+23:41:11.793 [TestNG-tests-2] INFO  academy.HomePageTest - kusum23@gmail.comisNon-Rsetricted user
+23:41:53.167 [TestNG-tests-4] INFO  academy.ValidateNavigationBarTest - driver is initialized
+23:41:53.447 [TestNG-tests-2] INFO  academy.HomePageTest - driver is initialized
+23:41:54.225 [TestNG-tests-1] INFO  academy.ValidateTittleTest - driver is initialized
+23:42:06.140 [TestNG-tests-2] INFO  academy.HomePageTest - base url is reached
+23:42:06.204 [TestNG-tests-1] INFO  academy.ValidateTittleTest - base url is reached
+23:42:07.045 [TestNG-tests-4] INFO  academy.ValidateNavigationBarTest - base url is reached
+23:42:18.923 [TestNG-tests-4] INFO  academy.ValidateNavigationBarTest - navigation bar is displayed
+22:41:07.713 [TestNG-tests-1] INFO  academy.ValidateTittleTest - driver is initialized
+22:41:07.713 [TestNG-tests-2] INFO  academy.HomePageTest - driver is initialized
+22:41:07.811 [TestNG-tests-4] INFO  academy.ValidateNavigationBarTest - driver is initialized
+22:41:13.340 [TestNG-tests-1] INFO  academy.ValidateTittleTest - base url is reached
+22:41:14.267 [TestNG-tests-4] INFO  academy.ValidateNavigationBarTest - base url is reached

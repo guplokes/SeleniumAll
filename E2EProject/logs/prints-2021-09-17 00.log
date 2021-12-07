@@ -1,0 +1,76 @@
+22:52:04.749 [main] INFO  academy.ValidateTittleTest - driver is initialized
+22:52:10.105 [main] INFO  academy.ValidateTittleTest - base url is reached
+22:52:19.595 [main] INFO  academy.ValidateTittleTest - Text is validated
+22:52:24.042 [main] INFO  academy.HomePageTest - driver is initialized
+22:52:28.567 [main] INFO  academy.HomePageTest - base url is reached
+22:52:40.499 [main] INFO  academy.HomePageTest - lucky22@gmail.comisRestricted user
+22:52:43.625 [main] INFO  academy.HomePageTest - driver is initialized
+22:52:49.433 [main] INFO  academy.HomePageTest - base url is reached
+22:52:59.081 [main] INFO  academy.HomePageTest - kusum23@gmail.comisNon-Rsetricted user
+22:53:02.794 [main] INFO  academy.ValidateNavigationBarTest - driver is initialized
+22:53:07.141 [main] INFO  academy.ValidateNavigationBarTest - base url is reached
+22:53:15.542 [main] INFO  academy.ValidateNavigationBarTest - navigation bar is displayed
+23:34:49.896 [main] INFO  academy.ValidateTittleTest - driver is initialized
+23:34:54.426 [main] INFO  academy.ValidateTittleTest - base url is reached
+23:35:02.545 [main] INFO  academy.ValidateTittleTest - Text is validated
+23:35:05.758 [main] INFO  academy.HomePageTest - driver is initialized
+23:35:10.642 [main] INFO  academy.HomePageTest - base url is reached
+23:35:19.551 [main] INFO  academy.HomePageTest - lucky22@gmail.comisRestricted user
+23:35:22.510 [main] INFO  academy.HomePageTest - driver is initialized
+23:35:26.982 [main] INFO  academy.HomePageTest - base url is reached
+23:35:38.268 [main] INFO  academy.HomePageTest - kusum23@gmail.comisNon-Rsetricted user
+23:35:41.308 [main] INFO  academy.ValidateNavigationBarTest - driver is initialized
+23:35:44.854 [main] INFO  academy.ValidateNavigationBarTest - base url is reached
+23:35:53.418 [main] INFO  academy.ValidateNavigationBarTest - navigation bar is displayed
+18:20:49.622 [main] INFO  academy.ValidateTittleTest - driver is initialized
+18:20:54.943 [main] INFO  academy.ValidateTittleTest - base url is reached
+18:21:01.114 [main] INFO  academy.ValidateTittleTest - Text is validated
+18:21:03.963 [main] INFO  academy.HomePageTest - driver is initialized
+18:21:08.207 [main] INFO  academy.HomePageTest - base url is reached
+18:21:18.203 [main] INFO  academy.HomePageTest - lucky22@gmail.comisRestricted user
+18:21:21.512 [main] INFO  academy.HomePageTest - driver is initialized
+18:21:25.967 [main] INFO  academy.HomePageTest - base url is reached
+18:21:36.195 [main] INFO  academy.HomePageTest - kusum23@gmail.comisNon-Rsetricted user
+18:21:38.989 [main] INFO  academy.ValidateNavigationBarTest - driver is initialized
+18:21:42.872 [main] INFO  academy.ValidateNavigationBarTest - base url is reached
+18:21:50.736 [main] INFO  academy.ValidateNavigationBarTest - navigation bar is displayed
+23:42:21.440 [main] INFO  academy.ValidateTittleTest - driver is initialized
+23:42:25.195 [main] INFO  academy.ValidateTittleTest - base url is reached
+23:51:39.540 [main] INFO  academy.ValidateTittleTest - driver is initialized
+23:51:43.469 [main] INFO  academy.ValidateTittleTest - base url is reached
+00:31:36.889 [main] INFO  academy.ValidateTittleTest - driver is initialized
+00:31:48.382 [main] INFO  academy.HomePageTest - driver is initialized
+00:32:03.256 [main] INFO  academy.ValidateNavigationBarTest - driver is initialized
+00:32:04.767 [main] INFO  academy.ValidateNavigationBarTest - base url is reached
+00:35:41.863 [main] INFO  academy.ValidateTittleTest - driver is initialized
+00:35:45.560 [main] INFO  academy.ValidateTittleTest - base url is reached
+00:36:02.688 [main] INFO  academy.HomePageTest - driver is initialized
+00:36:05.875 [main] INFO  academy.HomePageTest - base url is reached
+00:36:17.064 [main] INFO  academy.HomePageTest - lucky22@gmail.comisRestricted user
+00:36:20.406 [main] INFO  academy.HomePageTest - driver is initialized
+00:36:24.332 [main] INFO  academy.HomePageTest - base url is reached
+00:36:35.307 [main] INFO  academy.HomePageTest - kusum23@gmail.comisNon-Rsetricted user
+00:36:38.473 [main] INFO  academy.ValidateNavigationBarTest - driver is initialized
+00:36:42.072 [main] INFO  academy.ValidateNavigationBarTest - base url is reached
+00:36:50.697 [main] INFO  academy.ValidateNavigationBarTest - navigation bar is displayed
+00:31:52.619 [TestNG-tests-1] INFO  academy.ValidateTittleTest - driver is initialized
+00:31:52.759 [TestNG-tests-2] INFO  academy.HomePageTest - driver is initialized
+00:31:52.774 [TestNG-tests-4] INFO  academy.ValidateNavigationBarTest - driver is initialized
+00:32:04.938 [TestNG-tests-1] INFO  academy.ValidateTittleTest - base url is reached
+00:32:05.229 [TestNG-tests-2] INFO  academy.HomePageTest - base url is reached
+00:32:05.231 [TestNG-tests-4] INFO  academy.ValidateNavigationBarTest - base url is reached
+00:32:16.578 [TestNG-tests-4] INFO  academy.ValidateNavigationBarTest - navigation bar is displayed
+00:32:18.745 [TestNG-tests-2] INFO  academy.HomePageTest - lucky22@gmail.comisRestricted user
+00:32:23.808 [TestNG-tests-2] INFO  academy.HomePageTest - driver is initialized
+00:32:27.739 [TestNG-tests-2] INFO  academy.HomePageTest - base url is reached
+00:32:37.722 [TestNG-tests-2] INFO  academy.HomePageTest - kusum23@gmail.comisNon-Rsetricted user
+00:37:23.222 [TestNG-tests-1] INFO  academy.ValidateTittleTest - driver is initialized
+00:37:23.614 [TestNG-tests-4] INFO  academy.ValidateNavigationBarTest - driver is initialized
+00:37:23.662 [TestNG-tests-2] INFO  academy.HomePageTest - driver is initialized
+00:37:34.534 [TestNG-tests-4] INFO  academy.ValidateNavigationBarTest - base url is reached
+00:37:35.100 [TestNG-tests-2] INFO  academy.HomePageTest - base url is reached
+00:37:35.174 [TestNG-tests-1] INFO  academy.ValidateTittleTest - base url is reached
+00:37:50.105 [TestNG-tests-2] INFO  academy.HomePageTest - lucky22@gmail.comisRestricted user
+00:37:53.700 [TestNG-tests-2] INFO  academy.HomePageTest - driver is initialized
+00:37:59.426 [TestNG-tests-2] INFO  academy.HomePageTest - base url is reached
+00:38:11.597 [TestNG-tests-2] INFO  academy.HomePageTest - kusum23@gmail.comisNon-Rsetricted user

@@ -1,0 +1,3 @@
+01:58:13.520 [main] DEBUG alpha.Demo - debug ho rha
+01:58:13.554 [main] ERROR alpha.Demo - error ho gya
+01:58:13.554 [main] FATAL alpha.Demo - khatarnak errror ho gya

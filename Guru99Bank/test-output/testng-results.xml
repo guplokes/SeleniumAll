@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-16T19:49:34 IST" name="Suite" finished-at="2021-10-16T19:50:30 IST" duration-ms="55230">
+    <groups>
+    </groups>
+    <test started-at="2021-10-16T19:49:34 IST" name="Test" finished-at="2021-10-16T19:50:30 IST" duration-ms="55230">
+      <class name="Guru99.Guru99Bank.LoginTest">
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String)[pri:0, instance:Guru99.Guru99Bank.LoginTest@c33b74f]" started-at="2021-10-16T19:49:36 IST" name="verifyLogin" data-provider="Guru Test" finished-at="2021-10-16T19:49:52 IST" duration-ms="16524" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr358278]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[nesAmaq]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="close()[pri:0, instance:Guru99.Guru99Bank.LoginTest@c33b74f]" started-at="2021-10-16T19:49:52 IST" name="close" finished-at="2021-10-16T19:49:53 IST" duration-ms="1191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String)[pri:0, instance:Guru99.Guru99Bank.LoginTest@c33b74f]" started-at="2021-10-16T19:49:53 IST" name="verifyLogin" data-provider="Guru Test" finished-at="2021-10-16T19:50:04 IST" duration-ms="10985" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr358278]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[fdsjGJD]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="close()[pri:0, instance:Guru99.Guru99Bank.LoginTest@c33b74f]" started-at="2021-10-16T19:50:04 IST" name="close" finished-at="2021-10-16T19:50:06 IST" duration-ms="1323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String)[pri:0, instance:Guru99.Guru99Bank.LoginTest@c33b74f]" started-at="2021-10-16T19:50:06 IST" name="verifyLogin" data-provider="Guru Test" finished-at="2021-10-16T19:50:16 IST" duration-ms="10209" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[aghukh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[nesAmaq]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="close()[pri:0, instance:Guru99.Guru99Bank.LoginTest@c33b74f]" started-at="2021-10-16T19:50:16 IST" name="close" finished-at="2021-10-16T19:50:17 IST" duration-ms="1313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method signature="verifyLogin(java.lang.String,java.lang.String)[pri:0, instance:Guru99.Guru99Bank.LoginTest@c33b74f]" started-at="2021-10-16T19:50:17 IST" name="verifyLogin" data-provider="Guru Test" finished-at="2021-10-16T19:50:28 IST" duration-ms="11227" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[taratara]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[parapara]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="close()[pri:0, instance:Guru99.Guru99Bank.LoginTest@c33b74f]" started-at="2021-10-16T19:50:28 IST" name="close" finished-at="2021-10-16T19:50:30 IST" duration-ms="1287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Guru99.Guru99Bank.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

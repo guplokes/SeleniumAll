@@ -1,0 +1,30 @@
+package Tests;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class BrokenLinks {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.setProperty("webdriver.chrome.driver", "C:\\\\Selenium\\\\chromedriver.exe");
+		WebDriver driver=new ChromeDriver();
+		
+		//find broken links based on status code
+		//Java methods will call the URL's and get u the status code
+		
+		
+		
+		//1. to get all url's tied upto all links
+		//2.get status code
+		//3. if status code>400 then link is broken link
+		
+		driver.get("https://rahulshettyacademy.com/AutomationPractice/");
+		//driver.findElement(By.linkText("REST API")).click();
+		//a[href*='restapi'] ---customize css
+		
+		String url = driver.findElement(By.cssSelector("a[href*='restapi']")).getAttribute("href");
+	}
+
+}

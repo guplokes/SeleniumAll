@@ -1,0 +1,44 @@
+package TestNG;
+
+import org.testng.annotations.Test;
+
+public class Start3 {
+
+	@Test
+	public void webLoginCarLoan()
+	{
+		//selenium
+		System.out.println("webLoginCarLoan");
+	}
+	
+	@Test
+	public void mobileLoginCarLoan()
+	{
+		//Appium
+		System.out.println("mobileLoginCarLoan");
+	}
+	
+	@Test
+	public void mobileLogOutCarLoan()
+	{
+		//Appium
+		System.out.println("mobileLoginCarLoan");
+	}
+	
+	@Test
+	public void mobileAmountCarLoan()
+	{
+		//Appium
+		System.out.println("mobileLoginCarLoan");
+	}
+	
+	@Test
+	public void LoginAPICarLoan()
+	{
+		//Rest Api Automation
+		System.out.println("LoginAPICarLoan");
+	}
+	
+	
+
+}

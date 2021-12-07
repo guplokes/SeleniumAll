@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: guru99.Ecommerce.Day1Test
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 24.102 s <<< FAILURE! - in guru99.Ecommerce.Day1Test
+testcase1(guru99.Ecommerce.Day1Test)  Time elapsed: 0.034 s  <<< FAILURE!
+java.lang.AssertionError: expected [THIS IS DEMO SITE] but found [Home page]
+	at guru99.Ecommerce.Day1Test.testcase1(Day1Test.java:46)
+

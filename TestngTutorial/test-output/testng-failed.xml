@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Loan Department]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="TestNG.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="Personal Loan(failed)">
+    <parameter name="URL" value="https://www.google.co.in/"/>
+    <parameter name="key" value="2134578"/>
+    <classes>
+      <class name="TestNG.Start2">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="starter"/>
+          <include name="beforeSuite"/>
+          <include name="prerequisite"/>
+        </methods>
+      </class> <!-- TestNG.Start2 -->
+    </classes>
+  </test> <!-- Personal Loan(failed) -->
+  <test thread-count="5" name="Car Loan(failed)">
+    <classes>
+      <class name="TestNG.Start3">
+        <methods>
+          <include name="webLoginCarLoan"/>
+          <include name="afterSuite"/>
+          <include name="APICarLoan"/>
+        </methods>
+      </class> <!-- TestNG.Start3 -->
+    </classes>
+  </test> <!-- Car Loan(failed) -->
+</suite> <!-- Failed suite [Loan Department] -->

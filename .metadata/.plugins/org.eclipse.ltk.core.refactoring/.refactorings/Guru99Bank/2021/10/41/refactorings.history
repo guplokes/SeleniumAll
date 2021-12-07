@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Guru99Bank/src/main/java/resources/data.prperties&apos; to &apos;data.properties&apos;" description="Rename resource &apos;data.prperties&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/resources/data.prperties" name="data.properties" stamp="1633780004031" updateReferences="true"/>
+</session>

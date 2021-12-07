@@ -1,0 +1,48 @@
+22:41:16.619 [TestNG-tests-2] INFO  academy.HomePageTest - base url is reached
+22:41:20.781 [TestNG-tests-4] INFO  academy.ValidateNavigationBarTest - navigation bar is displayed
+22:41:22.796 [TestNG-tests-2] INFO  academy.HomePageTest - lucky22@gmail.comisRestricted user
+22:41:24.432 [TestNG-tests-2] INFO  academy.HomePageTest - driver is initialized
+22:41:29.046 [TestNG-tests-2] INFO  academy.HomePageTest - base url is reached
+22:41:36.828 [TestNG-tests-2] INFO  academy.HomePageTest - kusum23@gmail.comisNon-Rsetricted user
+23:14:29.761 [TestNG-tests-4] INFO  academy.ValidateNavigationBarTest - driver is initialized
+23:14:29.761 [TestNG-tests-1] INFO  academy.ValidateTittleTest - driver is initialized
+23:14:29.761 [TestNG-tests-2] INFO  academy.HomePageTest - driver is initialized
+23:14:37.913 [TestNG-tests-1] INFO  academy.ValidateTittleTest - base url is reached
+23:14:38.065 [TestNG-tests-2] INFO  academy.HomePageTest - base url is reached
+23:14:38.730 [TestNG-tests-4] INFO  academy.ValidateNavigationBarTest - base url is reached
+23:14:45.079 [TestNG-tests-4] INFO  academy.ValidateNavigationBarTest - navigation bar is displayed
+23:14:46.733 [TestNG-tests-2] INFO  academy.HomePageTest - lucky22@gmail.comisRestricted user
+23:14:48.201 [TestNG-tests-2] INFO  academy.HomePageTest - driver is initialized
+23:14:52.340 [TestNG-tests-2] INFO  academy.HomePageTest - base url is reached
+23:15:01.470 [TestNG-tests-2] INFO  academy.HomePageTest - kusum23@gmail.comisNon-Rsetricted user
+23:50:57.695 [TestNG-tests-1] INFO  academy.ValidateTittleTest - driver is initialized
+23:50:57.695 [TestNG-tests-2] INFO  academy.HomePageTest - driver is initialized
+23:50:57.696 [TestNG-tests-4] INFO  academy.ValidateNavigationBarTest - driver is initialized
+23:51:01.217 [TestNG-tests-2] INFO  academy.HomePageTest - base url is reached
+23:51:02.440 [TestNG-tests-4] INFO  academy.ValidateNavigationBarTest - base url is reached
+23:51:03.526 [TestNG-tests-1] INFO  academy.ValidateTittleTest - base url is reached
+23:52:53.734 [TestNG-tests-4] INFO  academy.ValidateNavigationBarTest - driver is initialized
+23:52:54.343 [TestNG-tests-1] INFO  academy.ValidateTittleTest - driver is initialized
+23:52:54.421 [TestNG-tests-2] INFO  academy.HomePageTest - driver is initialized
+23:53:00.839 [TestNG-tests-4] INFO  academy.ValidateNavigationBarTest - base url is reached
+23:53:01.209 [TestNG-tests-1] INFO  academy.ValidateTittleTest - base url is reached
+23:53:01.466 [TestNG-tests-2] INFO  academy.HomePageTest - base url is reached
+23:53:10.756 [TestNG-tests-4] INFO  academy.ValidateNavigationBarTest - navigation bar is displayed
+23:53:14.177 [TestNG-tests-2] INFO  academy.HomePageTest - lucky22@gmail.comisRestricted user
+23:53:16.842 [TestNG-tests-2] INFO  academy.HomePageTest - driver is initialized
+23:53:19.704 [TestNG-tests-2] INFO  academy.HomePageTest - base url is reached
+23:53:30.918 [TestNG-tests-2] INFO  academy.HomePageTest - kusum23@gmail.comisNon-Rsetricted user
+22:48:00.750 [main] INFO  academy.ValidateTittleTest - driver is initialized
+22:48:06.429 [main] INFO  academy.ValidateTittleTest - base url is reached
+22:48:25.972 [main] INFO  academy.HomePageTest - driver is initialized
+22:48:30.618 [main] INFO  academy.HomePageTest - base url is reached
+22:48:43.536 [main] INFO  academy.HomePageTest - lucky22@gmail.comisRestricted user
+22:48:47.002 [main] INFO  academy.HomePageTest - driver is initialized
+22:48:51.531 [main] INFO  academy.HomePageTest - base url is reached
+22:49:02.570 [main] INFO  academy.HomePageTest - kusum23@gmail.comisNon-Rsetricted user
+22:49:05.537 [main] INFO  academy.ValidateNavigationBarTest - driver is initialized
+22:49:11.630 [main] INFO  academy.ValidateNavigationBarTest - base url is reached
+22:49:18.244 [main] INFO  academy.ValidateNavigationBarTest - navigation bar is displayed
+22:52:58.561 [main] INFO  academy.ValidateTittleTest - driver is initialized
+22:53:02.737 [main] INFO  academy.ValidateTittleTest - base url is reached
+22:53:16.837 [main] INFO  academy.HomePageTest - driver is initialized

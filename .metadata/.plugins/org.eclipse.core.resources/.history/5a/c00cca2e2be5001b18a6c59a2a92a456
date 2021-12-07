@@ -1,0 +1,14 @@
+package Part_1;
+
+public class MultidimensionalArray {
+
+	public static void main(String[] args) {
+		
+		//int[][] arr = new int[3][3]; //2d-array declaration
+		
+		int[][] arr = {{2,4,4},{3,4,7},{1,2,9}}; //2d-array intialization
+		
+
+	}
+
+}

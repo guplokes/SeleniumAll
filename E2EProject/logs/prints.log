@@ -1,0 +1,8 @@
+22:53:24.685 [main] INFO  academy.HomePageTest - base url is reached
+22:53:35.834 [main] INFO  academy.HomePageTest - lucky22@gmail.comisRestricted user
+22:53:38.672 [main] INFO  academy.HomePageTest - driver is initialized
+22:53:42.285 [main] INFO  academy.HomePageTest - base url is reached
+22:53:54.203 [main] INFO  academy.HomePageTest - kusum23@gmail.comisNon-Rsetricted user
+22:53:57.092 [main] INFO  academy.ValidateNavigationBarTest - driver is initialized
+22:54:00.631 [main] INFO  academy.ValidateNavigationBarTest - base url is reached
+22:54:10.198 [main] INFO  academy.ValidateNavigationBarTest - navigation bar is displayed

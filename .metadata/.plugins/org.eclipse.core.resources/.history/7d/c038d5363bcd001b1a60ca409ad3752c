@@ -1,0 +1,45 @@
+package javaStream;
+
+import java.util.List;
+import java.util.stream.Collector;
+import java.util.stream.Collectors;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.Assert;
+
+public class WebTable {
+
+	public static void main(String[] args) {
+		
+		System.setProperty("webdriver.chrome.driver", "C:\\Selenium\\chromedriver.exe");
+		WebDriver driver = new ChromeDriver();
+		driver.get("https://rahulshettyacademy.com/seleniumPractise/#/offers");
+		
+		//1.click on column
+		driver.findElement(By.cssSelector("tr th:nth-child(1)")).click();
+		
+		//2.capture all web elements into a list
+		List<WebElement> aList = driver.findElements(By.cssSelector("table[class='table table-bordered'] tbody tr td:nth-child(1)"));
+
+		
+		//3.capture text of all web elements into a  new list(original list)
+		List<String> origList.stream().map(s->s.getText()).collect(Collectors.toList());
+		
+		//4.perform sort on original list -> sorted list
+		List<WebElement> sortedList = origList.stream().sorted().collect(Collectors.toList());
+		
+		//4.compare oringinal list vs sorted list
+		//(correct scenario) original list alsredy should be in sorted manner
+		
+
+		
+	
+		List<WebElement> newList = origList.stream().sorted().collect(Collectors.toList());
+		Assert.assertTrue(origList.equals(sortedList));
+	
+	}
+
+}

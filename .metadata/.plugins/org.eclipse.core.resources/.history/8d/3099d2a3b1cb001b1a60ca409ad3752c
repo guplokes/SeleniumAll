@@ -1,0 +1,65 @@
+package javaStream;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.stream.Stream;
+
+import org.testng.annotations.Test;
+
+public class Test1 {
+
+	//count no. of names starting with alphabet 'A'
+	//@Test
+	public void regular() {
+		List<String> names = new ArrayList<String>();
+		names.add("Aman");
+		names.add("Rohit");
+		names.add("Sonika");
+		names.add("Ayush");
+		names.add("Lokesh");
+		
+		int count=0;
+		String str;
+		
+		for(int i=0;i<names.size();i++) {
+			str = names.get(i);
+			if(str.startsWith("A"))
+				count++;
+			
+		}
+		System.out.println(count);
+	}
+	
+	@Test
+	public void streamFilter() {
+		List<String> names = new ArrayList<String>();
+		names.add("Aman");
+		names.add("Rohit");
+		names.add("Sonika");
+		names.add("Ayush");
+		names.add("Lokesh");
+		
+		long count = names.stream().filter(s -> s.startsWith("A")).count();
+		System.out.println(count);
+		
+		//terminal operation will only execute if filter  returns true
+		long d = Stream.of("Aman","Rohit","Sonika","Ayush","Lokesh").filter(s -> {
+			s.startsWith("A");
+			return false;
+		}).count();
+		System.out.println(d);
+		
+		//To print all the names having length greater than 4
+		names.stream().filter(s -> s.length()>4).forEach(s -> System.out.println(s));
+		//names.stream().filter(s -> s.length()>4).limit(1).forEach(s->System.out.println(s));
+	}
+
+	@Test
+	public void streamMap() {
+		//print the names in uppercase which have last character 'a'
+		
+		Stream.of("Aman","Rohita","Sonika","Ayush","Lokesh").filter(s -> s.endsWith("a")).map(s->s.toUpperCase())
+		.forEach(s->System.out.println(s));
+	}
+	
+}

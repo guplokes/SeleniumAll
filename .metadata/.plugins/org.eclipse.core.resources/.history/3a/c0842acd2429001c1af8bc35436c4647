@@ -1,0 +1,22 @@
+package Guru99.Guru99Bank;
+
+import java.io.IOException;
+
+import org.openqa.selenium.WebDriver;
+import org.testng.annotations.Test;
+
+import pageObject.LoginPage;
+import resources.Base;
+
+public class LoginTest extends Base{
+
+	@Test
+	void verifyLogin() throws IOException {
+		WebDriver driver = initializeDriver();
+		LoginPage lp = new LoginPage(driver);
+		lp.getUserId().sendKeys("mngr358278");
+		lp.getPassword().sendKeys("nesAmaq");
+		lp.getLogin().click();
+		System.out.println(driver.getTitle());
+	}
+}

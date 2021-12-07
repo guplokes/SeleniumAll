@@ -1,0 +1,59 @@
+package Selen;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.Assert;
+
+public class Assignment1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.setProperty("webdriver.chrome.driver", "C:\\Selenium\\chromedriver.exe");
+		WebDriver driver = new ChromeDriver();
+		
+		driver.get("https://rahulshettyacademy.com/AutomationPractice/");
+		
+		//java Alerts :: handling
+		
+		String text="lucky";
+		driver.findElement(By.id("name")).sendKeys(text);
+		driver.findElement(By.id("alertbtn")).click();
+		//switching driver to alert object
+		System.out.println(driver.switchTo().alert().getText());
+		driver.switchTo().alert().accept();
+		
+		//two types of alert button
+		driver.findElement(By.id("name")).sendKeys(text);
+		driver.findElement(By.id("confirmbtn")).click();
+		System.out.println(driver.switchTo().alert().getText());
+		driver.switchTo().alert().dismiss();
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		/*
+		 * driver.findElement(By.xpath("//input[@id='checkBoxOption1']")).click();
+		 * Assert.assertTrue(driver.findElement(By.xpath(
+		 * "//input[@id='checkBoxOption1']")).isSelected());
+		 * 
+		 * driver.findElement(By.xpath("//input[@id='checkBoxOption1']")).click();
+		 * Assert.assertFalse(driver.findElement(By.xpath(
+		 * "//input[@id='checkBoxOption1']")).isSelected());
+		 * 
+		 * //counting number of check boxes
+		 * System.out.println(driver.findElements(By.xpath("//input[@type='checkbox']"))
+		 * .size());
+		 */
+		
+	}
+
+}
